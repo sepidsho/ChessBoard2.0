@@ -16,3 +16,8 @@ Questions asked included:
 
 Manual adjustments:
 - Simplified logic and kept comments clear and consistent.
+# ChessBoard2.0
+
+This is a C# console application that prints an N×N chessboard.
+Project completed as part of course assignment.
+
